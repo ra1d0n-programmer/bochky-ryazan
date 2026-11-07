@@ -1,0 +1,11 @@
+:root {
+  --font-family: 'Nunito Sans', Arial, Helvetica, sans-serif;
+  --white-color: #fff;
+  --black-color: #000;
+  --orange-color: #E84E1B;
+  --orange-hover-color: #C54419;
+  --light-grey-color: #F5F7F5;
+  --grey-color: #747474;
+  --dark-color: #1E1E1E;
+  font-size: clamp(5px, 0.52083vw, 10px);
+}
